@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="heroDetailImage" type="id">heroDetailImage</item>
+    <item name="heroDetailName" type="id">heroDetailName</item>
+    <item name="heroDetailType" type="id">heroDetailType</item>
+    <item name="heroDetailPublisher" type="id">heroDetailPublisher</item>
+    <item name="backButton" type="id">backButton</item>
+</resources>
